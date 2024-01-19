@@ -1,0 +1,7 @@
+export enum EOrderStatus {
+  PENDING,
+  PROCESSING,
+  ONDELIVERY,
+  COMPLETED,
+  CANCELLED
+}
